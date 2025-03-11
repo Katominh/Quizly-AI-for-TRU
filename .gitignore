@@ -1,0 +1,15 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS metadata
+Icon?
+._*
+
+# Thumbnails
+Thumbs.db
+
+# PowerPoint temporary files
+~$*.pptx
+~$*.ppt
